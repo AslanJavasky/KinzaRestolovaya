@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641264371334",
+    "firebase_url": "https://kinzarest-a109a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kinzarest-a109a",
+    "storage_bucket": "kinzarest-a109a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641264371334:android:76392aeac2d4caa758b307",
+        "android_client_info": {
+          "package_name": "com.aslanbolurov.kinza.kinzarestolovaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641264371334-7ojr497fp5qgrn7jp3dr49mu2a4h586r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aslanbolurov.kinza.kinzarestolovaya",
+            "certificate_hash": "8124cbf87df248274898009beccfb74263eaa037"
+          }
+        },
+        {
+          "client_id": "641264371334-tpsac9rk0prmm5rhsinuh7rr2vrkn2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVu0NO1oSvIDmURMMf6QyTFtPyXEU1gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641264371334-pgch5m66ube4h8qd8fij2bdb29h6i0lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

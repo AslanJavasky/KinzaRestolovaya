@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dishes">Блюда</string>
+    <string name="garnishes">Гарниры</string>
+    <string name="desserts_salads">Дессерты</string>
+    <string name="grill">На мангале</string>
+    <string name="pizza">Пицца</string>
+    <string name="cart">Заказ</string>
+    <string name="dish_is_added">Блюдо добавлено в заказ)</string>
+    <string name="dish_is_removed">Блюдо удалено)</string>
+    <string name="name_textfield_hint">Имя</string>
+    <string name="phone_textfield_hint">Номер телефона для связи</string>
+    <string name="title_textfield_hint">Надпись на упаковке</string>
+    <string name="city_textfield_hint">Населенный пункт</string>
+    <string name="street_textfield_hint">Улица</string>
+    <string name="housenumber_textfield_hint">Номер дома</string>
+    <string name="flatnumber_textfield_hint">Номер квартиры</string>
+    <string name="tv_total_price">Итого: %s руб.</string>
+    <string name="tv_delivery_cost">+Доставка: %s руб.</string>
+    <string name="tv_cnt_dishes">Количество порций: %d</string>
+</resources>
